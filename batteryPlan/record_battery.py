@@ -20,7 +20,7 @@ else:
 if (not plugged):
     print(percent+'% | ' + time_remaining)
 else:
-    print(percent+'% | ' + plugged)
+    print(percent+'% | ' + "Plugged In")
 
 #print(battery.index())
 #print(battery.count())
